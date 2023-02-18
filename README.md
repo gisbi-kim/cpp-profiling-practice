@@ -1,2 +1,2 @@
 # cpp-profiling-practice
-for education. 
+- For education. 
